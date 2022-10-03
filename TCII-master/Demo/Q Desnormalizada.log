@@ -1,0 +1,53 @@
+Circuit: * C:\Users\ipave\Documents\GitHub\TCII\Demo\Q Desnormalizada.asc
+
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:2)
+Ignoring empty pin current: Ix(u3:1)
+Ignoring empty pin current: Ix(u3:2)
+Ignoring empty pin current: Ix(u4:1)
+Ignoring empty pin current: Ix(u4:2)
+.step rs=47000
+.step rs=57000
+.step rs=67000
+.step rs=77000
+.step rs=87000
+.step rs=97000
+.step rs=107000
+.step rs=117000
+.step rs=127000
+.step rs=137000
+.step rs=147000
+.step rs=157000
+.step rs=167000
+.step rs=177000
+.step rs=187000
+.step rs=197000
+.step rs=207000
+.step rs=217000
+.step rs=227000
+.step rs=237000
+.step rs=247000
+.step rs=257000
+.step rs=267000
+.step rs=277000
+.step rs=287000
+.step rs=297000
+.step rs=300000
+
+Date: Mon May 02 01:53:58 2022
+Total elapsed time: 0.211 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 0
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 11
+fillins = 10
+solver = Normal
+
